@@ -1,2 +1,4 @@
 treci fajl u mom projektu
 Ovo je inace i poslednji fajl u projektu
+
+Promena koja je napravljena na mom kompu u masteru
